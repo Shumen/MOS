@@ -1,0 +1,3 @@
+[submodule "berg"]
+	path = berg
+	url = git://github.com/leutloff/berg.git
